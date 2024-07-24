@@ -12,7 +12,7 @@ Installation
 To run the game locally, follow these steps:
 
 Clone the repository:
-git clone https://github.com/ReetuBichali/watersort-game.git
+git clone https://github.com/Gsandya/watersort-game.git
 cd watersort-game
 
 Install the required dependencies:
